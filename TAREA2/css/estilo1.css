@@ -1,0 +1,119 @@
+.principal
+{
+    background-color: aqua;
+    width: 900px;
+    height: 600px;
+    display: flexbox;
+}
+#caja
+{
+    background-color: rgb(150, 21, 182);
+        
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    left: 50px;
+    top: 60px;
+
+}
+#caja2
+{
+    background-color: yellow;
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    left: 330px;
+    top: 60px;
+    
+}
+#caja3
+{
+    background-color: aquamarine;
+    width: 250px;
+    height: 500px;
+    position: absolute;
+    left: 610px;
+    top: 60px;
+    
+}
+#caja4
+{
+    background-color: rgb(130, 61, 64);
+    width: 70px;
+    height: 100px;
+    position: absolute;
+    left: 15px;
+    top: 30px;
+}
+#caja5
+{
+    background-color: rgb(61, 123, 130);
+    width: 70px;
+    height: 100px;
+    position: absolute;
+    left: 90px;
+    top: 30px;
+}
+#caja6
+{
+    background-color: rgb(61, 104, 130);
+    width: 70px;
+    height: 100px;
+    position: absolute;
+    left: 165px;
+    top: 30px;
+}
+#caja7
+{
+    background-color: rgb(130, 115, 61);
+    width: 219px;
+    height: 60px;
+    position: absolute;
+    left: 15px;
+    top: 150px;  
+}
+#caja8
+{
+    background-color: rgb(130, 77, 61);
+    width: 219px;
+    height: 60px;
+    position: absolute;
+    left: 15px;
+    top: 225px;  
+}
+#caja9
+{
+    background-color: rgb(35, 66, 5);
+    width: 219px;
+    height: 60px;
+    position: absolute;
+    left: 15px;
+    top: 300px;  
+}
+#caja10
+{
+    background-color: rgb(61, 75, 130);
+    width: 70px;
+    height: 100px;
+    position: absolute;
+    left: 15px;
+    top: 380px;
+}
+#caja11
+{
+    background-color: rgb(130, 61, 94);
+    width: 70px;
+    height: 100px;
+    position: absolute;
+    left: 90px;
+    top: 380px;
+}
+#caja12
+{
+    background-color: rgb(116, 61, 130);
+    width: 70px;
+    height: 100px;
+    position: absolute;
+    left: 165px;
+    top: 380px;
+}
